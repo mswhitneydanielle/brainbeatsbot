@@ -1,0 +1,21 @@
+# OS / System files
+.DS_Store
+Thumbs.db
+
+# Node / package managers
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build / output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
